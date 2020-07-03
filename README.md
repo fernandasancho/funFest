@@ -1,2 +1,2 @@
 # funFest
-Music Festival Website - Academic Project
+Music Festival Website - Academic Project 2017
